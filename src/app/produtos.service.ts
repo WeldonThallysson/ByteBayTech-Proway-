@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 })
 export class ProdutosService {
 
-   produtos: IProduto[] = produtos;
+  produtos: IProduto[] = produtos;
   constructor() { }
 
   getAll(){
