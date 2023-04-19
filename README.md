@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
 # Link for Deploy
-https://github.com/WeldonThallysson/ByteBayTech-Proway-
+https://bytebaytech.netlify.app
 
 ## Development server
 
